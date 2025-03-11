@@ -6,9 +6,7 @@ const Footer = () => {
         <div className="footer-content">
           <p>&copy; 2024 Acampamento. Todos os direitos reservados.</p>
           <nav>
-            <a href="#sobre">Sobre</a>
-            <a href="#contato">Contato</a>
-            <a href="#termos">Termos de Uso</a>
+            <span>Contato: bueno.dev@outlook.com</span>
           </nav>
         </div>
       </footer>
