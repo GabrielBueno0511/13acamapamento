@@ -112,9 +112,7 @@ body{
     }
     
     .text-music{
+        width: 100px;
         margin-bottom: 400px;
     }
-
-
-
 }
