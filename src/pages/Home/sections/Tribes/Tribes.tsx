@@ -5,29 +5,29 @@ const Tribes = () =>{
 
   const items = [
     {
-      image: 'src/assets/rubem.png',
+      image: '/assets/rubem.png',
       title: 'Rubem',
     },
     {
-      image: 'src/assets/benjamin.png',
+      image: '/assets/benjamin.png',
       title: 'Benjamin',
     },
     {
-      image: 'src/assets/efraim.png',
+      image: '/assets/efraim.png',
       title: 'Efraim',
     },{
-      image: 'src/assets/juda.png',
+      image: '/assets/juda.png',
       title: 'Judá',
     },{
-      image: 'src/assets/manasses.png',
+      image: '/assets/manasses.png',
       title: 'Manassés',
     },
     {
-      image: 'src/assets/gad.png',
+      image: '/assets/gad.png',
       title: 'Gad',
     },
     {
-      image: 'src/assets/gad.png',
+      image: '/assets/gad.png',
       title: 'Leví',
     },
   ];

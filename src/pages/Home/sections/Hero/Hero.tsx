@@ -29,7 +29,7 @@ const Hero = () =>{
         />
       </div>
       <div className="logo-image">
-          <img src="src/assets/logo.png" alt="logo" />
+          <img src="/assets/logo.png" alt="logo" />
       </div>
       {showCards && showJobs && (
         <div className="cards">
@@ -78,7 +78,7 @@ const Hero = () =>{
             <h1>Para mais musicas do acampamento</h1>
         </div>
         <div className="text-music">
-          <img src="src/assets/musicas.png" alt="musicas" />
+          <img src="/assets/musicas.png" alt="musicas" />
         </div>
       </div>
       <Footer></Footer>

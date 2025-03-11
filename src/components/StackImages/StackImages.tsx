@@ -62,21 +62,21 @@ export default function Stack({
     cardsData.length
       ? cardsData
       : [
-        { id: 2, img: "src/assets/coordenacao.png" },
-        { id: 3, img: "src/assets/paimae.png" },
-        { id: 4, img: "src/assets/lideres.png"},
-        { id: 5, img: "src/assets/coordlider.png"},
-        { id: 6, img: "src/assets/logistica.png"},
-        { id: 7, img: "src/assets/manutencao.png"},
-        { id: 8, img: "src/assets/bemestar.png"},
-        { id: 9, img: "src/assets/cozinha.png"},
-        { id: 10, img: "src/assets/recre.png"},
-        { id: 11, img: "src/assets/musica.png"},
-        { id: 12, img: "src/assets/saude.png"},
-        { id: 13, img: "src/assets/evan.png"},
-        { id: 14, img: "src/assets/secretaria.png"},
-        { id: 15, img: "src/assets/inter.png"},
-        { id: 1, img: "src/assets/padre.png" },
+        { id: 2, img: "/assets/coordenacao.png" },
+        { id: 3, img: "/assets/paimae.png" },
+        { id: 4, img: "/assets/lideres.png"},
+        { id: 5, img: "/assets/coordlider.png"},
+        { id: 6, img: "/assets/logistica.png"},
+        { id: 7, img: "/assets/manutencao.png"},
+        { id: 8, img: "/assets/bemestar.png"},
+        { id: 9, img: "/assets/cozinha.png"},
+        { id: 10, img: "/assets/recre.png"},
+        { id: 11, img: "/assets/musica.png"},
+        { id: 12, img: "/assets/saude.png"},
+        { id: 13, img: "/assets/evan.png"},
+        { id: 14, img: "/assets/secretaria.png"},
+        { id: 15, img: "/assets/inter.png"},
+        { id: 1, img: "/assets/padre.png" },
 
       ]
   );
