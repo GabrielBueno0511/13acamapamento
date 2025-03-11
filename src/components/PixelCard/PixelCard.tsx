@@ -159,7 +159,6 @@ interface PixelCardProps {
     noFocus?: boolean;
     className?: string;
     text?: string
-    children: React.ReactNode;
 }
 
 interface VariantConfig {
@@ -178,7 +177,6 @@ export default function PixelCard({
     noFocus,
     className = "",
     text,
-    children
  }: PixelCardProps): JSX.Element {
 
     const containerRef = useRef<HTMLDivElement>(null);
@@ -314,7 +312,6 @@ export default function PixelCard({
             />
 
             <span className="pixel-text">{text}</span>
-            {children}
         </div>
     );
 }
