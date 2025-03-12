@@ -103,12 +103,12 @@ body{
 
     .spotify{
         margin-top: 100px;
+        padding: 40px;
     }
     
     .spotify h1  {
         margin-top: 40px; 
         margin-bottom: 80px;
-
     }
     
     .text-music{
