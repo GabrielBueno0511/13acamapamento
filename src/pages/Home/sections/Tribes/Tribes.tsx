@@ -37,7 +37,7 @@ const Tribes = () =>{
 
 
 
-<div style={{ height: '980px', position: 'relative' }}>
+<div style={{ height: '800px', position: 'relative' }}>
   <InfiniteMenu items={items}/>
 </div>
       </>
