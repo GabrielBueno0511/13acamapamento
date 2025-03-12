@@ -90,7 +90,7 @@ body{
 
 }
 
-@media (max-width: 430px) {
+@media (max-width: 670px) {
     .logo-image {
         height: 80px;
         max-width: 100%;
